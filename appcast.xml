@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/v0.0.1/blinkrail-0.1-1.zip" length="7027575" type="application/octet-stream"/>
+            <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.1.1/blinkrail-0.1-1.zip" length="7027575" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
