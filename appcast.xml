@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>blinkrail</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Wed, 14 Jan 2026 02:57:23 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/v0.0.1/blinkrail-0.1-1.zip" length="7027575" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
