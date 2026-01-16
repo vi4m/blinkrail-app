@@ -4,11 +4,11 @@
         <title>blinkrail</title>
         <item>
             <title>0.3</title>
-            <pubDate>Thu, 15 Jan 2026 02:03:21 +0100</pubDate>
-            <sparkle:version>6</sparkle:version>
+            <pubDate>Fri, 16 Jan 2026 18:34:18 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.3-11/blinkrail-0.3-6.zip" length="55463402" type="application/octet-stream"/>
+            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.3-12/blinkrail-0.3-12.zip" length="55632719" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
