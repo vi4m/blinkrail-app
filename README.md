@@ -15,4 +15,7 @@ Download:  <a href="https://github.com/vi4m/blinkrail-app/releases/latest">Lates
 <img width="1536" height="1024" alt="blinkrail-celeb" src="https://github.com/user-attachments/assets/ee63e230-39e2-41eb-9e6c-43cda988db9d" />
 <img width="1536" height="1024" alt="blinkrail-shield" src="https://github.com/user-attachments/assets/5bd1c136-a9f8-4732-8f92-4dc76c64805a" />
 
+<img width="1536" height="1024" alt="dcfbfb3b-3db1-458e-b1bf-2ddac2adcb24" src="https://github.com/user-attachments/assets/00ca56dc-381d-4d86-8087-e54d0e9f533a" />
+
+
 Download:  <a href="https://github.com/vi4m/blinkrail-app/releases/latest">Latest version</a>
