@@ -4,17 +4,11 @@
         <title>blinkrail</title>
         <item>
             <title>0.5</title>
-            <pubDate>Thu, 22 Jan 2026 12:30:59 +0100</pubDate>
-            <sparkle:version>18</sparkle:version>
-        <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
-        <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-        <description><![CDATA[
-        <ul>
-          <li>Added focus extension setting and refreshed the focus UI.</li>
-          <li>Refined nag banner passthrough and improved Zoom meeting detection.</li>
-        </ul>
-        ]]></description>
-        <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.5-18/blinkrail-0.5-18.zip" length="59407758" type="application/octet-stream"/>
+            <pubDate>Thu, 22 Jan 2026 13:42:30 +0100</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.5-19/blinkrail-0.5-19.zip" length="59408013" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
