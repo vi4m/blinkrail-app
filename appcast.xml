@@ -4,63 +4,11 @@
         <title>blinkrail</title>
         <item>
             <title>0.5</title>
-            <pubDate>Wed, 21 Jan 2026 21:41:22 +0100</pubDate>
-            <sparkle:version>17</sparkle:version>
+            <pubDate>Thu, 22 Jan 2026 12:30:59 +0100</pubDate>
+            <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.5-17/blinkrail-0.5-17.zip" length="59389330" type="application/octet-stream"/>
-            <description>
-                <![CDATA[
-                    <h2>✨ New Features</h2>
-                    <ul>
-                        <li><strong>Global hotkey for creating new tasks</strong><br/>
-                            Added a configurable system-wide shortcut to instantly create a new task.<br/>
-                            Default: <code>⌃⌘N</code><br/>
-                            Includes a new settings section with shortcut customization and help text.</li>
-                        <li><strong>Media key support (Play/Pause/Skip)</strong><br/>
-                            Full macOS media key monitoring using CGEvent tap (with local → global fallback).<br/>
-                            Hardware media keys now directly control play/pause/skip in the app.</li>
-                        <li><strong>Zoom meeting detection &amp; smart pause behavior</strong><br/>
-                            Automatically detects active Zoom meetings (with daily timer and status display).<br/>
-                            While in a meeting: music is paused and break reminders are disabled.</li>
-                        <li><strong>Dedicated Debug window</strong><br/>
-                            All debug tools moved from the dashboard tab into a separate, scrollable Debug window.<br/>
-                            Includes preview panes, live monitoring, zoom window dumps, and easy launcher button.</li>
-                    </ul>
-
-                    <h2>🎉 Improvements</h2>
-                    <ul>
-                        <li><strong>Enhanced celebration animations</strong><br/>
-                            Added bold congratulatory headline for successful completions.<br/>
-                            Undo/reverse celebrations now use grayscale styling and updated messaging.</li>
-                        <li><strong>Smarter nag banner behavior</strong>
-                            <ul>
-                                <li>Explicit <strong>OK</strong> acknowledgment button added</li>
-                                <li><strong>Snooze</strong> (5 minutes) option appears after repeated quick-confirms</li>
-                                <li>Snooze counter resets properly — no more auto-snooze spam</li>
-                                <li>Banner window level raised for reliable visibility over fullscreen apps</li>
-                            </ul>
-                        </li>
-                        <li><strong>GitHub sync improvements</strong><br/>
-                            New secondary action in the upload sheet: <strong>Clear updates-only items</strong><br/>
-                            Resets sync flags for metadata-only changes, refreshes list, and shows status.</li>
-                    </ul>
-
-                    <h2>🛠 Fixes &amp; Behavior Tweaks</h2>
-                    <ul>
-                        <li><strong>Focus session lifecycle fixes</strong>
-                            <ul>
-                                <li>Sessions no longer auto-complete on expiry → now prompts to extend time</li>
-                                <li>Spent focus time preserved correctly when toggling or finishing tasks</li>
-                                <li>Deleting a task interrupts any active focus session</li>
-                                <li>Resuming tasks no longer reuses old focus time incorrectly</li>
-                                <li>Added drag-to-undo gesture for completed tasks</li>
-                                <li>Improved alignment of progress/focus controls on older macOS layouts</li>
-                            </ul>
-                        </li>
-                    </ul>
-                    ]]>
-            </description>
+            <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.5-18/blinkrail-0.5-18.zip" length="59407758" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
