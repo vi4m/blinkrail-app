@@ -9,6 +9,14 @@
             <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.5-20/blinkrail-0.5-20.zip" length="59409052" type="application/octet-stream"/>
+            <description><![CDATA[
+                <ul>
+                    <li>Focus: added an extension setting, refreshed the focus UI, and aligned focus actions.</li>
+                    <li>Drilldown: improved the view and added a hover hint.</li>
+                    <li>Meetings: refined Zoom detection (prefixes and passthrough logic).</li>
+                    <li>Agent runner: made the runner generic.</li>
+                </ul>
+            ]]></description>
         </item>
     </channel>
 </rss>
