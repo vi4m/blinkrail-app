@@ -9,13 +9,14 @@
             <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p>This release expands focus rewards and the tree overlay experience.</p>
+                <p>This release focuses on deeper focus rewards, clearer tree progress, and build tooling polish.</p>
                 <ul>
-                    <li>Continuous focus rewards with tree progress tracking.</li>
-                    <li>Daily rewards persistence with goal setting and progress scaled to the daily goal.</li>
-                    <li>Timed tree overlay with a hotkey to show it on demand.</li>
-                    <li>Tree spark counters, focus spark award tracking, and a force-points control.</li>
-                    <li>Updated defaults and overlay logic for daily-only point displays.</li>
+                    <li>Continuous focus rewards with persisted daily goals and tree progress scaled to the daily target.</li>
+                    <li>Tree overlay updates, including timed visibility, a hotkey toggle, and improved daily-only point display logic.</li>
+                    <li>Tree spark counters, focus spark award tracking, and a force-points control for testing or adjustments.</li>
+                    <li>Updated default focus spark reward settings and refinements to overlay positioning.</li>
+                    <li>Fixed GitHub OAuth callback handling.</li>
+                    <li>Repository and release tooling updates, including gitignore/LFS attributes and Sparkle script enhancements.</li>
                 </ul>
             ]]></description>
             <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.6-21/blinkrail-0.6-21.zip" length="62078460" type="application/octet-stream"/>
