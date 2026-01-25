@@ -7,6 +7,13 @@
             <pubDate>Sun, 25 Jan 2026 23:02:29 +0100</pubDate>
             <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
+            <description><![CDATA[
+            <ul>
+                <li>Enhanced focus rewards with continuous gains, daily goals, updated defaults, and persisted progress.</li>
+                <li>Expanded tree progress overlays with a timed display, hotkey toggle, daily-only scaling, and reward spark counts.</li>
+                <li>Improved focus UI with uninterrupted focus display, fixed return overlay contrast, and a continuously ticking focus timer.</li>
+            </ul>
+            ]]></description>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.6-22/blinkrail-0.6-22.zip" length="62095151" type="application/octet-stream"/>
         </item>
