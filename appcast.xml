@@ -8,17 +8,7 @@
             <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <p>This release refines focus rewards, tree progress overlays, and focus window behavior.</p>
-                <ul>
-                    <li>Continuous focus rewards with persisted daily goals, goal-based scaling, and revised reward/overlay flow.</li>
-                    <li>Tree progress overlays now support timed visibility, a hotkey toggle, daily-only point adjustments, force-points control, and spark award tracking.</li>
-                    <li>Focus window updates show uninterrupted focus in the floating window, keep the timer ticking, and improve return overlay contrast.</li>
-                    <li>Updated default focus spark reward settings.</li>
-                    <li>Agent instructions updated for libghostty workflows.</li>
-                </ul>
-            ]]></description>
-            <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.6-22/blinkrail-0.6-22.zip" length="0" type="application/octet-stream"/>
+            <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.6-22/blinkrail-0.6-22.zip" length="62095151" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
