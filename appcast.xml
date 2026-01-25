@@ -3,20 +3,12 @@
     <channel>
         <title>blinkrail</title>
         <item>
-            <title>0.5</title>
-            <pubDate>Thu, 22 Jan 2026 23:56:27 +0100</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+            <title>0.6</title>
+            <pubDate>Sun, 25 Jan 2026 02:22:19 +0100</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.5-20/blinkrail-0.5-20.zip" length="59409052" type="application/octet-stream"/>
-            <description><![CDATA[
-                <ul>
-                    <li>Focus: added an extension setting, refreshed the focus UI, and aligned focus actions.</li>
-                    <li>Drilldown: improved the view and added a hover hint.</li>
-                    <li>Meetings: refined Zoom detection (prefixes and passthrough logic).</li>
-                    <li>Agent runner: made the runner generic.</li>
-                </ul>
-            ]]></description>
+            <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.6-21/blinkrail-0.6-21.zip" length="62078460" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
