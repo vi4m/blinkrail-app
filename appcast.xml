@@ -4,22 +4,11 @@
         <title>blinkrail</title>
         <item>
             <title>0.6</title>
-            <pubDate>Sun, 01 Feb 2026 02:22:37 +0100</pubDate>
-            <sparkle:version>23</sparkle:version>
+            <pubDate>Tue, 03 Feb 2026 01:04:19 +0100</pubDate>
+            <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
-            <description><![CDATA[
-            <ul>
-                <li>Release packaging now includes DMG output for this version.</li>
-                <li>Added manual Timeline snapshot capture with clear permission/status warnings and instant refresh when a snapshot saves, plus an option to remove recent activity entries.</li>
-                <li>Introduced a global Pause/Resume Focus shortcut and smarter focus monitoring that pauses on sleep and resumes on wake.</li>
-                <li>Tracked task completion timestamps so completed-today views and task updates reflect when work actually finished.</li>
-                <li>Refined music handling with safer media-key swallowing, in-task previous/next controls, and a brief hint when music starts.</li>
-                <li>UI tweaks: added a settings theme preview, kept completed tasks limited to today, and adjusted workday hours handling in task scheduling.</li>
-                <li>Added a focus window tooltip reminder for right-click options.</li>
-            </ul>
-            ]]></description>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.6-23/blinkrail-0.6-23.dmg" length="67068496" type="application/octet-stream"/>
+            <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.6-24/blinkrail-0.6-24.dmg" length="67077948" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
