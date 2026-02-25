@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.7</sparkle:shortVersionString>
             <description><![CDATA[
 <h3>Release Notes</h3>
-<p>No repository commits were dated February 25, 2026. This release packages the latest functional updates landed on February 24, 2026.</p>
+<p>This release improves startup behavior, integrations, and task workflow reliability across the macOS app.</p>
 <ul>
   <li>🚀 Added launch-at-login support with improved startup state handling.</li>
   <li>🔗 Expanded Linear integration with OAuth flow and sync service updates.</li>
