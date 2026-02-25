@@ -7,6 +7,16 @@
             <pubDate>Wed, 25 Feb 2026 20:31:32 +0100</pubDate>
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>0.7</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>Release Notes</h3>
+                <p>No repository commits were dated February 25, 2026. This build includes the latest functional updates from February 24, 2026:</p>
+                <ul>
+                    <li>Added launch-at-login support with app startup state management improvements.</li>
+                    <li>Added Linear OAuth flow and expanded Linear sync service integration.</li>
+                    <li>Added settings-level integration toggles and sync UI refinements across dashboard and menu surfaces.</li>
+                    <li>Improved task editing and shared model updates to support the new sync and startup behaviors.</li>
+                </ul>
+            ]]></description>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/vi4m/blinkrail-app/releases/download/0.7-25/blinkrail-0.7-25.dmg" length="67502718" type="application/octet-stream"/>
         </item>
